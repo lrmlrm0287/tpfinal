@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0,
+}
+
+body{
+  background-image: url(./imagenes/rickymorty.jpg);
+  background-attachment: fixed ;
+  background-size: cover;  
+  margin:0;
+}
+
+*{
+  font-family: Raleway, sans-serif;
+ }
+
+
+h1{
+  color: white;
+  font-size: 3em
+}

@@ -1,0 +1,61 @@
+.subt-1{
+    display: none;   
+
+    color: rgba(74, 71, 71, 0.8); 
+    background: transparent; 
+    opacity: true;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.form{
+    display: none;
+}
+
+.alert{
+  color: rgba(74, 71, 71, 0.8);
+  background-color: #6ECCAF; 
+  width: 80%;
+  height: auto;
+}
+
+.pAlerta{  
+    color: #344d67;;
+}
+
+.mobile-filters{  
+ background-color: #344d67;
+}
+
+.h2Filter{  
+  color: #6ECCAF; 
+ }
+
+.bi{  
+    color: #6ECCAF; 
+    background-color: #344d67; 
+}
+  
+
+.icono{
+    color: #6ECCAF ;
+    background-color: #344d67; 
+    border: none; 
+}
+
+@media (min-width:1050px) { 
+    .mobile-filters{
+        display: none!important;
+    
+    }
+    .subt-1{
+        display: block;
+    }
+
+    .form{
+        display: flex;
+    }
+
+  
+
+}

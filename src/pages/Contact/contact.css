@@ -1,0 +1,64 @@
+
+
+.ta{  
+  margin-top: 4%; 
+}
+
+.tb{  
+  margin-top: 5%; 
+}
+
+
+.label-form{  
+  color: black;  
+  margin-bottom: 1%;
+}
+
+input:focus {
+  outline: none;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+textarea:focus {
+  outline: none;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+
+.btn-form{  
+  background-color: #344d67;
+  color: white;
+}
+   
+
+.da{  
+  color: #223142; 
+  width: 20vw;
+  margin-top: -5%;
+}
+
+.db{  
+  width: 20vw;
+  margin-left: 2%; 
+  margin-top: -5%;
+}
+
+.dc{  
+  width: 42vw;
+  margin-left: 13%; 
+  margin-top: 2%;
+}
+
+.de{  
+  margin-left: 13%; 
+  margin-top: 2%;
+}
+.contbox{  
+  color: #223142; 
+  background-color: rgba(92, 117, 146, .9);;
+  width: 60%;
+  height: 72vh;
+  font-size: large;
+  margin-top: 4%; 
+}

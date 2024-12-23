@@ -1,0 +1,47 @@
+.cardcard {
+    background-color: #223142;
+    white-space: normal;
+    max-width: fit-content;  
+}
+
+.pername {
+  color: #6ECCAF;  
+  font-size: x-large;
+}  
+
+.btnm {
+  color: #223142;
+  background-color: #6ECCAF; 
+  border: none;
+  border-radius: 6%;
+  margin-bottom: 2px;
+}
+
+
+
+.bl{
+  color: #223142;
+  background-color: #6ECCAF;  
+ }  
+
+ .containeritem{
+  color: white;
+  background-color: #223142;  
+ }  
+
+.containeritem:hover{
+  background-color: #6ECCAF;  
+  color: #344D67;
+}
+
+ .h4d{
+  font-size: small;
+  font-weight: 300;
+}  
+
+.pd{
+  font-size: medium;
+  font-weight: 700;
+}  
+
+

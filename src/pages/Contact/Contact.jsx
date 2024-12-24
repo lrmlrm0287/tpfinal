@@ -12,7 +12,8 @@ export default function Contact() {
           <h2 className="ta text-center">Contact</h2>
           <h3 className="tb text-center">Leave us your information so we can contact you</h3>
         </div>
-        <form className="container-form justify-content-md-center p-4" action="https://formspree.io/f/xgejnork" method="POST">
+        <form className="container-form justify-content-md-center p-4" action="https://formspree.io/f/mwpppvkv" method="POST"> 
+        {/* LINKEO CON LA API FORMSPREE PARA QUE ME LLEGUE EL CONTACTO POR MAIL Y ASI SUMAR EL PROYECTO AL PORFOLIO */}
         <div className="nombreymail d-flex flex-row justify-content-md-center justify-content-between align-items-center mt-5 ">
             <div className="da d-flex flex-column">
               <label className="label-form" for="name">Name</label>

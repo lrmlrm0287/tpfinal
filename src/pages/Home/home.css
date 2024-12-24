@@ -1,8 +1,8 @@
 
 .container{
     background-color: #f5f5f5e6;   
-    width: 550px;
     margin-top: 10%;
+    width: 550px;
     text-align: center;
 }
 
@@ -10,30 +10,31 @@
 
 
 .p1{
-    color: black;
     font-weight: 500;
+    color: black;
+    
 }
 
 
 .p2{
     color: black;
-    font-size: x-large;  
     font-weight: 500;
+    font-size: x-large;  
     justify-content: center;
 }
 
 
 .title{
     color: black;
-    font-size: 40px;  
     font-weight: 500;
+    font-size: 40px;  
     justify-content: center;  
 }
 
 
 .subt{
     color: black;
-    font-size: 30px;  
     font-weight: 500;
+    font-size: 30px;  
     justify-content: center;  
 }
